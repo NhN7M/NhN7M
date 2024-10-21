@@ -23,12 +23,9 @@ sul mio canale di github metterò:
 2. codici scritti e creati con il mio mini club
 3. in futuro app create da me o con i miei amici
 
-###### cosa ho imparato
+##### cosa ho imparato
 
-per ora so:
-- python
-- streamlit
-- markdown
+per ora so python, streamlit e markdown
 
 
 
