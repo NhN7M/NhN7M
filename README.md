@@ -12,5 +12,6 @@ per ora so:
 - python
 - streamlit
 - markdown
-e ho intenzione di imparare tutto il possibile per arrivare a creare una applicazione.
+  
+e ho intenzione di impararne ancora di piu per arrivare a creare una applicazione.
 
