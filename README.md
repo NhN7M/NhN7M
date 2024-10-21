@@ -15,12 +15,13 @@ Io iniziai a scrivere con python nel 2023 seguendo tutorial e lobri online.
 - pallavolo
 - skate
 
-  ##### cosa troverai qui
+##### cosa troverai qui
 
 sul mio canale di github metterò:
-- tutte me mie sfide personali e proposte di amici/famiglia
-- codici scritti e creati con il mio mini club
-- in futuro app create da me o con i miei amici
+
+1. tutte me mie sfide personali e proposte di amici/famiglia
+2. codici scritti e creati con il mio mini club
+3. in futuro app create da me o con i miei amici
 
 ###### cosa ho imparato
 
